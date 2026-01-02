@@ -17,6 +17,13 @@
 /Prototype2/[Bb]uilds/
 /Prototype2/[Ll]ogs/
 /Prototype2/[Uu]ser[Ss]ettings/
+/Prototype3/[Ll]ibrary/
+/Prototype3/[Tt]emp/
+/Prototype3/[Oo]bj/
+/Prototype3/[Bb]uild/
+/Prototype3/[Bb]uilds/
+/Prototype3/[Ll]ogs/
+/Prototype3/[Uu]ser[Ss]ettings/
 *.log
 
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be commited to version control.
